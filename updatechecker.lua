@@ -10,7 +10,7 @@ function GetCurrentVersion()
 end 
 
 -- Grabs the latest version number from the web GitHub
-PerformHttpRequest( "https://raw.githubusercontent.com/PhantomDDK/qb-dumpsters/main/version.txt", function( err, text, headers )
+PerformHttpRequest( "https://raw.githubusercontent.com/Pump-Codes/pump-dumpsterdiving/main/Update.txt", function( err, text, headers )
 	-- Wait to reduce spam 
 	Citizen.Wait( 2000 )
 
