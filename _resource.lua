@@ -10,7 +10,7 @@ client_scripts {
 }
 
 server_scripts {
-  'updatecheck.lua',
+  'updatechecker.lua',
   'server.lua',
  
   'config.lua'
