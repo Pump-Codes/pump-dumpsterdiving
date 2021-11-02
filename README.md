@@ -1,3 +1,3 @@
 # Pump-dumpsterdiving
 
-Store: https://pump.tebex.io
+website: https://pumpdev.org
